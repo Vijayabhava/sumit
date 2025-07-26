@@ -76,7 +76,7 @@ export default function ContactSection() {
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-blue-400 to-sky-400 mx-auto mb-6"></div>
             <p className="text-xl text-slate-300 max-w-2xl mx-auto">
-              Let's connect and discuss opportunities to work together on exciting projects.
+              Let&apos;s connect and discuss opportunities to work together on exciting projects.
             </p>
           </motion.div>
 
